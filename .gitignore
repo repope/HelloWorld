@@ -1,0 +1,46 @@
+# intellij #
+############
+**/.idea/**/tasks.xml
+**/.idea/**/workspace.xml
+**/.idea/**/compiler.xml
+**/.idea/**/encodings.xml
+**/.idea/**/misc.xml
+**/.idea/**/modules.xml
+**/.idea/**/vcs.xml
+**/.idea/**/uiDesigner.xml
+**/.idea/sonarlint/**
+**/.idea/.name
+*.iml
+.factorypath
+artifacts
+libraries
+
+# eclipse/vscode #
+############
+**/.classpath
+**/.settings/**
+
+# binaries #
+##########
+*.jar
+*.war
+*.ear
+target/
+**/target/
+
+
+# os files #
+############
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+
+
+
+
